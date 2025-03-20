@@ -19,7 +19,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/rohan3747/Star-Planets
+git clone https://github.com/rohan3747/StarPlanets
 cd star-planets
 Open in Android Studio.
 Build and run the app on an emulator or device.
